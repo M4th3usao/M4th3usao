@@ -17,7 +17,6 @@
    <img align="center" alt="Matheus-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
    <img align="center" alt="Matheus-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" alt="Matheus-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Matheus-Angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/Angular-original-wordmark.svg">
    <img align="center" alt="Matheus-Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Matheus-VSCODE" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
  </div>
