@@ -8,7 +8,7 @@
 - 📫 Como me encontrar: 
 -  Email: matheus.rico17@gmail.com
 
-<div>
+<div align="center">
   <a href="https://github.com/M4th3usao">
   <img height"100em" src="https://github-readme-stats.vercel.app/api?username=M4th3usao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height"100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4th3usao&layout=compact&langs_count=16&theme=radical"/>
