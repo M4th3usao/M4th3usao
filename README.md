@@ -13,7 +13,7 @@
   <img height"180em" src="https://github-readme-stats.vercel.app/api?username=M4th3usao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4th3usao&layout=compact&langs_count=16&theme=radical"/>
 </div>
- <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br/>
    <img align="center" alt="Matheus-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
    <img align="center" alt="Matheus-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
    <img align="center" alt="Matheus-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
