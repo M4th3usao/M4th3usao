@@ -14,7 +14,7 @@
   <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4th3usao&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,haskell,java,react,git,vercel,ai,ps)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,haskell,java,react,angular,git,vercel,ai,ps)](https://skillicons.dev)
   
  <div>
     <a href="https://www.linkedin.com/in/matheus-oliveira-a14b121b0/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
