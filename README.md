@@ -19,7 +19,7 @@
    <img align="center" alt="Matheus-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Matheus-Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Matheus-VSCODE" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-     <img align="center" alt="Matheus-Typescript" height="60" width="70" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ts/ts-original-wordmark.svg](https://cdn.jsdelivr.net/npm/typescript@5.0.4/lib/typescript.min.js)">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  </div>
   
   ##
