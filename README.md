@@ -19,7 +19,7 @@
    <img align="center" alt="Matheus-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Matheus-Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Matheus-VSCODE" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-     <img align="center" alt="Matheus-Typescript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original-wordmark.svg">
+     <img align="center" alt="Matheus-Typescript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ts/ts-original-wordmark.svg">
  </div>
   
   ##
